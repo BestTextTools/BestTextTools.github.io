@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://besttexttools.github.io/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url><loc>https://besttexttools.github.io/text-length/</loc></url>
+  <url><loc>https://besttexttools.github.io/repeat-text/</loc></url>
+  <url><loc>https://besttexttools.github.io/url-encode/</loc></url>
+  <url><loc>https://besttexttools.github.io/base64/</loc></url>
+  <url><loc>https://besttexttools.github.io/html-entities/</loc></url>
+  <url><loc>https://besttexttools.github.io/hex/</loc></url>
+  <url><loc>https://besttexttools.github.io/rot13/</loc></url>
+  <url><loc>https://besttexttools.github.io/caesar-cipher/</loc></url>
+  <url><loc>https://besttexttools.github.io/atbash/</loc></url>
+  <url><loc>https://besttexttools.github.io/hash-md5/</loc></url>
+  <url><loc>https://besttexttools.github.io/hash-sha1/</loc></url>
+  <url><loc>https://besttexttools.github.io/hash-sha256/</loc></url>
+</urlset>
