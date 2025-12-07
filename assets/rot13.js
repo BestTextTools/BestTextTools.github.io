@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){const e=document.getElementById("inputText"),t=document.getElementById("outputText"),n=document.getElementById("btnRot13");e&&t&&n&&n.addEventListener("click",()=>{t.value=(e.value||"").replace(/[a-zA-Z]/g,e=>{const t=e<="Z"?65:97;return String.fromCharCode((e.charCodeAt(0)-t+13)%26+t)})})});

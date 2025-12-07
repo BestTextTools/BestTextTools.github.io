@@ -1,0 +1,62 @@
+Terms of Service
+Last updated: 2025 December 6th
+
+1. Acceptance of terms
+By using BestTextTools at https://BestTextTools.github.io you agree to these Terms of Service. If you do not agree, discontinue use of the site.
+
+2. Description of the service
+BestTextTools provides browser-based text utilities. In the future we may add:
+- A backend server
+- Freemium features
+- Advertising
+- Analytics
+
+3. Accuracy disclaimer
+The tools may not be fully accurate or suitable for all purposes. Users must verify output before relying on it for important tasks.
+
+Do not rely on BestTextTools for:
+- Security-sensitive work
+- Medical, financial, legal, or professional decisions
+- Any situation where incorrect output may cause harm
+
+4. Future server-side processing
+Currently BestTextTools runs locally in your browser. In the future some features may send data to a server. Such features will be documented when introduced.
+
+5. Freemium, ads, and analytics
+The site may include ads and analytics. These may be provided by companies such as:
+- Google AdSense
+- Media.net
+- Cloudflare Web Analytics
+
+6. Rules for using the site
+You agree that you will not:
+- Attack, hack, or disrupt this site
+- Use the tools to attack or hack other sites
+- Copy or clone the site in a misleading way
+- Misrepresent yourself as affiliated with BestTextTools
+
+7. Intellectual property
+Site name, branding, and design belong to the site owner. You may reference or link to the site, but may not present copies as the official version.
+
+8. Limitation of liability
+BestTextTools and its owner(s) are not liable for:
+- Direct or indirect damages
+- Loss of data
+- Inaccurate tool output
+- Site downtime
+- Unauthorized access by third parties
+
+You use the site at your own risk.
+
+9. No warranty
+The site is provided “AS IS” and “AS AVAILABLE” without any warranties, express or implied.
+
+10. Age and eligibility
+The tools are general-purpose and may be used by any age group, but minors should have permission from a parent or guardian if they do not understand these terms.
+
+11. Changes to the Terms
+We may update these Terms from time to time. Continued use of the site means you accept updated terms.
+
+12. Contact
+- GitHub issues: https://github.com/BestTextTools/BestTextTools.github.io/issues
+- Email: besttexttools@gmail.com

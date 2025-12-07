@@ -1,0 +1,4 @@
+# ads.txt for BestTextTools
+# Domain: BestTextTools.github.io
+
+# Publisher ID pending.

@@ -1,0 +1,48 @@
+Privacy Policy
+Last updated: December 6th 2025
+
+1. Who we are
+BestTextTools is available at https://BestTextTools.github.io.
+
+Contact:
+- GitHub issues: https://github.com/BestTextTools/BestTextTools.github.io/issues
+- Email: besttexttools@gmail.com
+
+2. What this site does
+BestTextTools provides online text utilities such as text length counters, encoders, decoders, and hash generators. Most tools run directly in your browser.
+
+3. Information we collect
+Currently, BestTextTools does not intentionally collect personally identifiable information. No registration is required and no account data is stored.
+
+In the future, we may add Cloudflare Web Analytics (free tier). This may collect aggregated, non-personal information such as:
+- Pages visited
+- Referrers
+- Approximate location (region/city)
+- Device, browser, and performance metrics
+
+4. Third-party services (Ads & Analytics)
+In the future, we plan to integrate:
+- Google AdSense
+- Media.net
+- Cloudflare Web Analytics or similar tools
+
+These services may use cookies or tracking technologies to deliver ads, measure performance, and prevent fraud. When such services are activated, this document will be updated.
+
+5. How your data is processed
+Currently, tool input is intended to run only in your browser.
+
+In the future:
+- Some features may send data to a backend server
+- This will be clearly documented when implemented
+
+6. Cookies and local storage
+Future features may use browser storage to save preferences, support analytics, or support freemium features. Details will be added when these features are introduced.
+
+7. Ads and freemium model
+BestTextTools may become freemium in the future. The site may show advertisements which can collect data for ad performance and anti-fraud measures.
+
+8. Children’s privacy
+The site is general-purpose and does not target children. If a parent believes their child has submitted data, contact us for review.
+
+9. Changes to this Privacy Policy
+We may update this policy from time to time. Your continued use of the site constitutes acceptance of updated terms.
