@@ -1,0 +1,8 @@
+# security.txt for BestTextTools
+# see thank-you.txt for more information
+Contact: mailto:besttexttoolssupport@gmail.com
+Contact: https://github.com/BestTextTools/BestTextTools.github.io/issues
+Policy: https://besttexttools.github.io/terms.txt
+Preferred-Languages: en
+Encryption: https://example.com/pgp.txt
+Acknowledgments: https://besttexttools.github.io/thank-you.txt

@@ -1,0 +1,10 @@
+huBestTextTools Vulnerability Disclosure
+
+We currently DO NOT run a paid bug bounty program.
+
+If you discover a security issue, please:
+1. Do not exploit it or access other users’ data.
+2. Do not run automated scanners that may impact service.
+3. Report privately to: besttexttools@gmail.com
+
+We appreciate responsible disclosure and may add your name to a public thanks page.

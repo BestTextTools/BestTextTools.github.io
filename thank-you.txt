@@ -1,0 +1,5 @@
+Thank you to all security researchers who help keep BestTextTools safe.
+
+Currently no reported vulnerabilities.
+
+Report issues: https://github.com/BestTextTools/BestTextTools.github.io/issues
