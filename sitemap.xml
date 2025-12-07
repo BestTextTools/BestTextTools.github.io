@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://besttexttools.github.io/</loc>
     <priority>1.0</priority>
@@ -17,4 +18,18 @@
   <url><loc>https://besttexttools.github.io/hash-md5/</loc></url>
   <url><loc>https://besttexttools.github.io/hash-sha1/</loc></url>
   <url><loc>https://besttexttools.github.io/hash-sha256/</loc></url>
+
+  <url><loc>https://besttexttools.github.io/binary-text/</loc></url>
+  <url><loc>https://besttexttools.github.io/case-converter/</loc></url>
+  <url><loc>https://besttexttools.github.io/csv-to-json/</loc></url>
+  <url><loc>https://besttexttools.github.io/json-formatter/</loc></url>
+  <url><loc>https://besttexttools.github.io/json-minifier/</loc></url>
+  <url><loc>https://besttexttools.github.io/random-string/</loc></url>
+  <url><loc>https://besttexttools.github.io/remove-duplicates/</loc></url>
+  <url><loc>https://besttexttools.github.io/sort-lines/</loc></url>
+  <url><loc>https://besttexttools.github.io/text-diff/</loc></url>
+  <url><loc>https://besttexttools.github.io/url-parser/</loc></url>
+  <url><loc>https://besttexttools.github.io/uuid-generator/</loc></url>
+  <url><loc>https://besttexttools.github.io/word-frequency/</loc></url>
+  <url><loc>https://besttexttools.github.io/reverse-text/</loc></url>
 </urlset>
