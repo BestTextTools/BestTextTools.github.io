@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){const e=document.getElementById("inputRegexEscape"),t=document.getElementById("outputRegexEscape"),n=document.getElementById("btnRegexEscape");e&&t&&n&&n.addEventListener("click",function(){var n;t.value=(n=e.value||"")?n.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"):""})});

@@ -1,35 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <url>
     <loc>https://besttexttools.github.io/</loc>
     <priority>1.0</priority>
   </url>
 
-  <url><loc>https://besttexttools.github.io/text-length/</loc></url>
-  <url><loc>https://besttexttools.github.io/repeat-text/</loc></url>
-  <url><loc>https://besttexttools.github.io/url-encode/</loc></url>
-  <url><loc>https://besttexttools.github.io/base64/</loc></url>
-  <url><loc>https://besttexttools.github.io/html-entities/</loc></url>
-  <url><loc>https://besttexttools.github.io/hex/</loc></url>
-  <url><loc>https://besttexttools.github.io/rot13/</loc></url>
-  <url><loc>https://besttexttools.github.io/caesar-cipher/</loc></url>
+  <url><loc>https://besttexttools.github.io/add-line-breaks/</loc></url>
+  <url><loc>https://besttexttools.github.io/ascii-art-text-generator/</loc></url>
   <url><loc>https://besttexttools.github.io/atbash/</loc></url>
+  <url><loc>https://besttexttools.github.io/base64/</loc></url>
+  <url><loc>https://besttexttools.github.io/batch-uuid-generator/</loc></url>
+  <url><loc>https://besttexttools.github.io/binary-text/</loc></url>
+  <url><loc>https://besttexttools.github.io/caesar-cipher/</loc></url>
+  <url><loc>https://besttexttools.github.io/canonical-url-generator/</loc></url>
+  <url><loc>https://besttexttools.github.io/case-converter/</loc></url>
+  <url><loc>https://besttexttools.github.io/character-frequency-analyzer/</loc></url>
+  <url><loc>https://besttexttools.github.io/css-minifier/</loc></url>
+  <url><loc>https://besttexttools.github.io/csv-cleaner/</loc></url>
+  <url><loc>https://besttexttools.github.io/csv-to-json/</loc></url>
+  <url><loc>https://besttexttools.github.io/duplicate-word-finder/</loc></url>
+  <url><loc>https://besttexttools.github.io/emoji-remover/</loc></url>
   <url><loc>https://besttexttools.github.io/hash-md5/</loc></url>
   <url><loc>https://besttexttools.github.io/hash-sha1/</loc></url>
   <url><loc>https://besttexttools.github.io/hash-sha256/</loc></url>
-
-  <url><loc>https://besttexttools.github.io/binary-text/</loc></url>
-  <url><loc>https://besttexttools.github.io/case-converter/</loc></url>
-  <url><loc>https://besttexttools.github.io/csv-to-json/</loc></url>
+  <url><loc>https://besttexttools.github.io/hex/</loc></url>
+  <url><loc>https://besttexttools.github.io/html-entities/</loc></url>
+  <url><loc>https://besttexttools.github.io/html-minifier/</loc></url>
+  <url><loc>https://besttexttools.github.io/html-to-markdown/</loc></url>
+  <url><loc>https://besttexttools.github.io/js-minifier/</loc></url>
   <url><loc>https://besttexttools.github.io/json-formatter/</loc></url>
   <url><loc>https://besttexttools.github.io/json-minifier/</loc></url>
+  <url><loc>https://besttexttools.github.io/json-to-csv/</loc></url>
+  <url><loc>https://besttexttools.github.io/keyword-density-analyzer/</loc></url>
+  <url><loc>https://besttexttools.github.io/keyword-extractor/</loc></url>
+  <url><loc>https://besttexttools.github.io/leetspeak-converter/</loc></url>
+  <url><loc>https://besttexttools.github.io/line-number-adder/</loc></url>
+  <url><loc>https://besttexttools.github.io/lorem-ipsum-generator/</loc></url>
+  <url><loc>https://besttexttools.github.io/markdown-to-html/</loc></url>
+  <url><loc>https://besttexttools.github.io/meta-description-generator/</loc></url>
+  <url><loc>https://besttexttools.github.io/morse-code-converter/</loc></url>
+  <url><loc>https://besttexttools.github.io/paragraph-splitter/</loc></url>
+  <url><loc>https://besttexttools.github.io/password-strength-checker/</loc></url>
+  <url><loc>https://besttexttools.github.io/punctuation-remover/</loc></url>
+  <url><loc>https://besttexttools.github.io/qr-code-generator/</loc></url>
   <url><loc>https://besttexttools.github.io/random-string/</loc></url>
+  <url><loc>https://besttexttools.github.io/random-word-generator/</loc></url>
+  <url><loc>https://besttexttools.github.io/regex-escape-tool/</loc></url>
+  <url><loc>https://besttexttools.github.io/regex-tester/</loc></url>
   <url><loc>https://besttexttools.github.io/remove-duplicates/</loc></url>
-  <url><loc>https://besttexttools.github.io/sort-lines/</loc></url>
-  <url><loc>https://besttexttools.github.io/text-diff/</loc></url>
-  <url><loc>https://besttexttools.github.io/url-parser/</loc></url>
-  <url><loc>https://besttexttools.github.io/uuid-generator/</loc></url>
-  <url><loc>https://besttexttools.github.io/word-frequency/</loc></url>
+  <url><loc>https://besttexttools.github.io/remove-extra-spaces/</loc></url>
+  <url><loc>https://besttexttools.github.io/remove-line-breaks/</loc></url>
+  <url><loc>https://besttexttools.github.io/repeat-text/</loc></url>
   <url><loc>https://besttexttools.github.io/reverse-text/</loc></url>
+  <url><loc>https://besttexttools.github.io/robots-txt-generator/</loc></url>
+  <url><loc>https://besttexttools.github.io/rot13/</loc></url>
+  <url><loc>https://besttexttools.github.io/rot47-encoder/</loc></url>
+  <url><loc>https://besttexttools.github.io/sentence-case-converter/</loc></url>
+  <url><loc>https://besttexttools.github.io/sentence-splitter/</loc></url>
+  <url><loc>https://besttexttools.github.io/sitemap-generator/</loc></url>
+  <url><loc>https://besttexttools.github.io/slug-generator/</loc></url>
+  <url><loc>https://besttexttools.github.io/sort-lines/</loc></url>
+  <url><loc>https://besttexttools.github.io/stopword-remover/</loc></url>
+  <url><loc>https://besttexttools.github.io/tab-spaces-converter/</loc></url>
+  <url><loc>https://besttexttools.github.io/text-case-randomizer/</loc></url>
+  <url><loc>https://besttexttools.github.io/text-diff/</loc></url>
+  <url><loc>https://besttexttools.github.io/text-length/</loc></url>
+  <url><loc>https://besttexttools.github.io/text-normalizer/</loc></url>
+  <url><loc>https://besttexttools.github.io/title-case-converter/</loc></url>
+  <url><loc>https://besttexttools.github.io/url-encode/</loc></url>
+  <url><loc>https://besttexttools.github.io/url-parser/</loc></url>
+  <url><loc>https://besttexttools.github.io/url-slug-cleaner/</loc></url>
+  <url><loc>https://besttexttools.github.io/utm-url-builder/</loc></url>
+  <url><loc>https://besttexttools.github.io/uuid-generator/</loc></url>
+  <url><loc>https://besttexttools.github.io/word-counter-advanced/</loc></url>
+  <url><loc>https://besttexttools.github.io/word-frequency/</loc></url>
 </urlset>
