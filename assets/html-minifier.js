@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){const t=document.getElementById("inputHtmlMin"),e=document.getElementById("outputHtmlMin"),n=document.getElementById("btnHtmlMinify");t&&e&&n&&n.addEventListener("click",function(){e.value=function(t){if(!t)return"";let e=t.replace(/\s+/g," ");return e=e.replace(/>\s+</g,"><"),e.trim()}(t.value||"")})});

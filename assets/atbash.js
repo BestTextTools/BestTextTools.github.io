@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){const e=document.getElementById("inputText"),t=document.getElementById("outputText"),n=document.getElementById("btnAtbash");e&&t&&n&&n.addEventListener("click",()=>{t.value=(e.value||"").replace(/[a-zA-Z]/g,e=>{const t=e.charCodeAt(0);return e<="Z"?String.fromCharCode(90-(t-65)):String.fromCharCode(122-(t-97))})})});

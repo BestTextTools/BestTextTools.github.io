@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){const e=document.getElementById("inputNormalize"),t=document.getElementById("outputNormalize"),n=document.getElementById("btnNormalize");e&&t&&n&&n.addEventListener("click",function(){var n;t.value=(n=e.value||"")?n.replace(/\s+/g," ").trim():""})});

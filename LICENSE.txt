@@ -1,0 +1,39 @@
+BestTextTools Proprietary License
+Last updated: 2025 December 6th
+
+Copyright (c) 2025 BestTextTools
+
+All rights reserved.
+
+This software, source code, assets, text, documentation, and all other files
+contained in this repository (“the Software”) are the exclusive property of
+BestTextTools.
+
+Permission is NOT granted to any person or organization to:
+
+- Copy, reproduce, or duplicate the Software
+- Modify, change, or create derivative works of the Software
+- Redistribute, republish, or host the Software or any portion of it
+- Sell, sublicense, or commercially exploit the Software
+- Use the Software in any product, website, service, or application
+- Mirror or archive the Software
+- Use the Software to train machine learning models
+- Claim ownership or authorship of the Software
+
+The only permitted action is viewing the Software directly on GitHub for the
+purpose of browsing this repository. No other rights are granted.
+
+No part of the Software may be used, copied, modified, merged, published,
+distributed, sublicensed, or sold in any form without prior written permission
+from BestTextTools.
+
+This license applies only to original code written for BestTextTools.
+Third-party components (such as Bootstrap) remain under their original licenses.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR THE USE OF THE
+SOFTWARE.
+
+For permission requests, issues, or questions, contact:
+besttexttools@gmail.com
