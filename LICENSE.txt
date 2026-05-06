@@ -1,7 +1,7 @@
 BestTextTools Proprietary License
-Last updated: 2025 December 6th
+Last updated: 2026 May 6th
 
-Copyright (c) 2025 BestTextTools
+Copyright (c) 2026 BestTextTools
 
 All rights reserved.
 
