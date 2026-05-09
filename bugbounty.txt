@@ -1,4 +1,4 @@
-huBestTextTools Vulnerability Disclosure
+BestTextTools Vulnerability Disclosure
 
 We currently DO NOT run a paid bug bounty program.
 
